@@ -18,3 +18,25 @@ Is a component that **works with the PDP**, its main job are **enforcing the Pol
 * **No more \"Trusted\" and \"Untrusted\" Zones**: everything are considered **Untrusted** by default and must earn trust continouslly
 * **Multipale Attributes are used:** the ZTA uses mutipale attributes such as **Identity**, **Location**, **Device Health** ... for things like **Authentication & Authorization** and for **Enforcing Least-Privilege Access**
 * **The compromisation are always assumed:** the ZTA always assumes the compromisation both Devices and Software used within the Network, and also assumes the existance of Insiders who have access to sensitive data
+
+### Core ZT Goals:
+ZT focuses on protecting **Data**, **Applications**, **Assest** and **Services** (also called **DAAS**), and for that it uses technologies and techniques such as:
+* **Continuous MFA (Multi-Factor Auth)**
+* **Micro-segmentation**
+* **Encryption**
+* **Endpoint security**
+* **Automation and Analytics**
+* **Robust auditing and logging**
+
+### Zero Trust Pillars:
+A **Pillar** is a **Key focus area for implementing Zero Trust controls**, Each pillar targets a specific domain (identity, devices ...) and they
+there are **two categories of pillars:**
+* **Data Pillar:** which is the **core assest we aim to protect**
+* **Protection Pillars:** are the pillars used to **enforce controls** and for **protecting the core assests (which is the Data Pillar)**, they
+include:
+- Devices Pillar
+- Workloads Pillar
+- Visibility and Analytics Pillar
+- Users Pillar
+- Network Pillar
+- Automation and Orchestration Pillar
