@@ -40,4 +40,6 @@ include:
     - Users Pillar
     - Network Pillar
     - Automation and Orchestration Pillar
+
+
 ![Figure 1: ZT Pillars](/resources/ZT_pillars.png)
