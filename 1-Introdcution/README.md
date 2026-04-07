@@ -56,11 +56,11 @@ based on **Behavoral Patterns** such as **Location**, **Access Patterns** ..., a
 focuses on the **Trustworthiness** of the **devices that access the network**, it uses techniques such as **Mobile Device Managers (MDM)**,
 **Comply-to-Connect (C2C)** and **Trusted Platform Modules (TPM)**, and it requires **Real-time device inspection and Health Checking**, also
 it evaluates:
-    - Software Versions
-    - Patch Status
-    - Compromise Indicators
-    - Encryption Usage
-    - Config Correctness
+- Software Versions
+- Patch Status
+- Compromise Indicators
+- Encryption Usage
+- Config Correctness
 also this pillar controls **Device Inventory Isolation and Remediation**
 
 #### Network/Environment Pillar:
