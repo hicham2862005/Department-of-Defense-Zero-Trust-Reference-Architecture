@@ -13,3 +13,8 @@ Is a component used to **Evaluate Access Requests** and based on the evaluation 
 ### Policy Enforcement Point (PEP):
 Is a component that **works with the PDP**, its main job are **enforcing the Policies recived from the PDP** on the target resource
  that the **PEP** are installed in
+
+### Core ZT Concepts:
+	(.) **No more \"Trusted\" and \"Untrusted\" Zones**: everything are considered **Untrusted** by default and must earn trust continouslly
+	(.) **Multipale Attributes are used:** the ZTA uses mutipale attributes such as **Identity**, **Location**, **Device Health** ... for things like **Authentication & Authorization** and for **Enforcing Least-Privilege Access**
+	(.) **The compromisation are always assumed:** the ZTA always assumes the compromisation both Devices and Software used within the Network, and also assumes the existance of Insiders who have access to sensitive data
