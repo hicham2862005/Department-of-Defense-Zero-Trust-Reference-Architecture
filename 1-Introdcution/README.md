@@ -31,12 +31,12 @@ ZT focuses on protecting **Data**, **Applications**, **Assest** and **Services**
 ### Zero Trust Pillars:
 A **Pillar** is a **Key focus area for implementing Zero Trust controls**, Each pillar targets a specific domain (identity, devices ...) and they
 there are **two categories of pillars:**
-* **Data Pillar:** which is the **core assest we aim to protect**
-* **Protection Pillars:** are the pillars used to **enforce controls** and for **protecting the core assests (which is the Data Pillar)**, they
+1. **Data Pillar:** which is the **core assest we aim to protect**
+2. **Protection Pillars:** are the pillars used to **enforce controls** and for **protecting the core assests (which is the Data Pillar)**, they
 include:
-- Devices Pillar
-- Workloads Pillar
-- Visibility and Analytics Pillar
-- Users Pillar
-- Network Pillar
-- Automation and Orchestration Pillar
+    1. Devices Pillar
+    2. Workloads Pillar
+    3. Visibility and Analytics Pillar
+    4. Users Pillar
+    5. Network Pillar
+    6. Automation and Orchestration Pillar
