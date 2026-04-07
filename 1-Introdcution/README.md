@@ -44,8 +44,6 @@ include:
 \
 \
 ![Figure 1: ZT Pillars](/resources/ZT_pillars.png)
-\
-\
 
 #### User Pillar:
 The **User Pillar** works with **Person and Non-person (bots, scripts) entities**, it uses **Multi-Factor Auth (MFA)** and **Privileged Access Management (PAM)**
