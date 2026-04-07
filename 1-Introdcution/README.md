@@ -38,9 +38,35 @@ include:
     - Workloads Pillar
     - Visibility and Analytics Pillar
     - Users Pillar
-    - Network Pillar
+    - Network Pillar (also called Environment Pillar)
     - Automation and Orchestration Pillar
 \
 \
 \
 ![Figure 1: ZT Pillars](/resources/ZT_pillars.png)
+\
+\
+\
+#### User Pillar:
+The **User Pillar** works with **Person and Non-person (bots, scripts) entities**, it uses **Multi-Factor Auth (MFA)** and **Privileged Access Management (PAM)**
+and requires the use of **Continous Authentication and Authorization** alongside with **Continouse Monitoring**, here the access are governed
+based on **Behavoral Patterns** such as **Location**, **Access Patterns** ..., and it focuses on **enforin Least Privilege Access**
+
+#### Devices Pillar:
+focuses on the **Trustworthiness** of the **devices that access the network**, it uses techniques such as **Mobile Device Managers (MDM)**,
+**Comply-to-Connect (C2C)** and **Trusted Platform Modules (TPM)**, and it requires **Real-time device inspection and Health Checking**, also
+it evaluates:
+    - Software Versions
+    - Patch Status
+    - Compromise Indicators
+    - Encryption Usage
+    - Config Correctness
+also this pillar controls **Device Inventory Isolation and Remediation**
+
+#### Network/Environment Pillar:
+
+#### Workloads Pillar:
+
+#### Data Pillar:
+
+#### Visibility and Analytics Pillar:
