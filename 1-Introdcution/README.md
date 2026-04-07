@@ -21,12 +21,12 @@ Is a component that **works with the PDP**, its main job are **enforcing the Pol
 
 ### Core ZT Goals:
 ZT focuses on protecting **Data**, **Applications**, **Assest** and **Services** (also called **DAAS**), and for that it uses technologies and techniques such as:
-* **Continuous MFA (Multi-Factor Auth)**
-* **Micro-segmentation**
-* **Encryption**
-* **Endpoint security**
-* **Automation and Analytics**
-* **Robust auditing and logging**
+&emsp; * **Continuous MFA (Multi-Factor Auth)**
+&emsp; * **Micro-segmentation**
+&emsp; * **Encryption**
+&emsp; * **Endpoint security**
+&emsp; * **Automation and Analytics**
+&emsp; * **Robust auditing and logging**
 
 ### Zero Trust Pillars:
 A **Pillar** is a **Key focus area for implementing Zero Trust controls**, Each pillar targets a specific domain (identity, devices ...) and they
