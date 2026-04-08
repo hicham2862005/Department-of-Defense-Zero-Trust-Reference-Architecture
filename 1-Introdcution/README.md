@@ -73,8 +73,10 @@ focuses on **Securing Applications and Services across all the Network Environme
 - Compute Containers
 - Virtual Machines (VMs)
 - Serverless Functions
+
 and alongside of that it requires the use of **Proxy-based Delivery Methods** for **PDPs** and **PEPs** to achive **Better Isolation and Access Control**,
 and with those disscussed above, it uses **DevSecOps Practices** for:
+
 - Developing Secure Source Code
 - Inspecting Common Libraries used in the project
 - Embedding the Security in the Early stages of the project development
