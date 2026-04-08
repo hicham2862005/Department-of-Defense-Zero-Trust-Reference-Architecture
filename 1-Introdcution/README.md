@@ -62,6 +62,11 @@ it evaluates:
 also this pillar controls **Device Inventory Isolation and Remediation**
 
 #### Network/Environment Pillar:
+it focuses on **Securing the Segmentation of the Network**, it uses **Macro-Segmentation** (Big Zones) and **Micro-Segmentation** (fine-grained Zones),
+it requires **Logical and Physical Network Isolation** and **Granular Policies** to control:
+- Internal and External data flows
+- Leteral Movement through the network
+- Priviliged Network Access
 
 #### Workloads Pillar:
 
