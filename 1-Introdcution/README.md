@@ -96,3 +96,9 @@ also it aims to build a **full data management strategy** that includes:
 - **Encryption at Rest** and **Encryption at Transit**
 
 #### Visibility and Analytics Pillar:
+its main focus are on **understanding what are happening across the environment in the real-time** and alongside with this goal it works on
+**Detecting Anomalies and Triggering Alerts based on suspicious events and Adapting policies dynamically for protecting the system**, and for this
+various tools and techniques are used such as:
+- Contextual Telemetry
+- Sensor Data
+- Deep Packet Inspection (DPI)
