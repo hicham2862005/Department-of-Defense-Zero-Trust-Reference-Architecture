@@ -82,5 +82,17 @@ and with those disscussed above, it uses **DevSecOps Practices** for:
 - Embedding the Security in the Early stages of the project development
 
 #### Data Pillar:
+focuses on **Protecting Mission-critical Data (core assets)** it requires the use of:
+
+- Digital Rights Management (DRM)
+- Data Loss Prevenetion (DLP)
+- Software-Defined Environments (SDE)
+- Granular Data Tagging
+
+also it aims to build a **full data management strategy** that includes:
+
+- Structured Data Igestion
+- Data Classification and Schemas
+- **Encryption at Rest** and **Encryption at Transit**
 
 #### Visibility and Analytics Pillar:
