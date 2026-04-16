@@ -104,8 +104,13 @@ various tools and techniques are used such as:
 - Sensor Data
 - Deep Packet Inspection (DPI)
 
-#### Automation and Orchestration Pillar
+#### Automation and Orchestration Pillar:
 this pillar focuses on **High Speed Response and Rules Enforcement** with **Reduction in Human Errors**, it contains
 - SOAR (Security Orchestration Automation and Response)
 - SIEM Integrations
 - Orchestration across **Cloud** and **On-prem**
+
+### ZT Main Principles:
+- **P1:** there is **no trusted zones**, all parts of the network are treated like they are compromized
+- **P2:** the **Identity-Based Authentication and Authorization** are strictly enforced for **all connections** across the **Infrastructure**,**Services** and **Data Routes**, this includes the use of **Multi-factor Auth (MFA)**, **Public-Key Infrastructure (PKI)** ...
+- **P3:** the **Machine-to-Machine (M2M) Authentication** are strictly enforced for **comminucations between Servers and Applications**
