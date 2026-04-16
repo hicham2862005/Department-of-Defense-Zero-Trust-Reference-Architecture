@@ -97,8 +97,15 @@ also it aims to build a **full data management strategy** that includes:
 
 #### Visibility and Analytics Pillar:
 its main focus are on **understanding what are happening across the environment in the real-time** and alongside with this goal it works on
-**Detecting Anomalies and Triggering Alerts based on suspicious events and Adapting policies dynamically for protecting the system**, and for this
+**Detecting Anomalies and Triggering Alerts based on suspicious events and Adapting policies dynamically for protecting the system** 
+and it's also helps in **Monitoring the Behaviour and the Performance also the Security across all othe ZT Pillars**, and for this
 various tools and techniques are used such as:
 - Contextual Telemetry
 - Sensor Data
 - Deep Packet Inspection (DPI)
+
+#### Automation and Orchestration Pillar
+this pillar focuses on **High Speed Response and Rules Enforcement** with **Reduction in Human Errors**, it contains
+- SOAR (Security Orchestration Automation and Response)
+- SIEM Integrations
+- Orchestration across **Cloud** and **On-prem**
