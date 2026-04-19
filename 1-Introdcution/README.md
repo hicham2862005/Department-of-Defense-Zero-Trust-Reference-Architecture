@@ -114,3 +114,7 @@ this pillar focuses on **High Speed Response and Rules Enforcement** with **Redu
 - **P1:** there is **no trusted zones**, all parts of the network are treated like they are compromized
 - **P2:** the **Identity-Based Authentication and Authorization** are strictly enforced for **all connections** across the **Infrastructure**,**Services** and **Data Routes**, this includes the use of **Multi-factor Auth (MFA)**, **Public-Key Infrastructure (PKI)** ...
 - **P3:** the **Machine-to-Machine (M2M) Authentication** are strictly enforced for **comminucations between Servers and Applications**
+- **P4:** the **Risk Profiles** are always generated in **near Real-time** from **Monitoring and Assessment of User/Device Behaviors** and used to **Authorizing User/Device Entities** 
+- **P5:** the **Sensitive Data is Always Encrypted** both **At-Rest** and **In-Transit**
+- **P6:** **All Events are Continously Monitored, Collected, Stored** and **Analyzed** for **Compliance**, where **all events are logged** and the Logs are **Monitored in Real-time for spotting threats** and also for **Audit Compliance**
+- **P7:** both **Policy Management** and **Policy Distribution** are **Centralized** for preventing **Rules Duplication** and **Rule Inconsistencies** and also to **Elemenat Hidden Permissions** that are hard to track
